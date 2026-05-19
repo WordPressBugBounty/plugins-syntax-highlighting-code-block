@@ -4,20 +4,20 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit6b0e2ab7be97be93a5d7f26eea8e67a1
+class ComposerStaticInitd419c9a2d353a32904c15e92c04f7382
 {
     public static $files = array (
         'b6ec61354e97f32c0ae683041c78392a' => __DIR__ . '/..' . '/scrivo/highlight-php/HighlightUtilities/functions.php',
     );
 
     public static $prefixesPsr0 = array (
-        'H' => 
+        'H' =>
         array (
-            'Highlight\\' => 
+            'Highlight\\' =>
             array (
                 0 => __DIR__ . '/..' . '/scrivo/highlight.php',
             ),
-            'HighlightUtilities\\' => 
+            'HighlightUtilities\\' =>
             array (
                 0 => __DIR__ . '/..' . '/scrivo/highlight.php',
             ),
@@ -42,8 +42,8 @@ class ComposerStaticInit6b0e2ab7be97be93a5d7f26eea8e67a1
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixesPsr0 = ComposerStaticInit6b0e2ab7be97be93a5d7f26eea8e67a1::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInit6b0e2ab7be97be93a5d7f26eea8e67a1::$classMap;
+            $loader->prefixesPsr0 = ComposerStaticInitd419c9a2d353a32904c15e92c04f7382::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInitd419c9a2d353a32904c15e92c04f7382::$classMap;
 
         }, null, ClassLoader::class);
     }

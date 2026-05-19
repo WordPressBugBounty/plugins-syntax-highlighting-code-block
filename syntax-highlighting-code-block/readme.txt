@@ -1,8 +1,9 @@
 === Syntax-highlighting Code Block (with Server-side Rendering) ===
+
 Contributors: westonruter, allejo
 Tags: block, code, code syntax, syntax highlight, code highlighting
-Tested up to: 6.7
-Stable tag: 1.5.1
+Tested up to: 7.0
+Stable tag: 1.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,4 +33,3 @@ This is a fork of [Code Syntax Block](https://github.com/mkaz/code-syntax-block)
 == Changelog ==
 
 For the plugin’s changelog, please see [the Releases page on GitHub](https://github.com/westonruter/syntax-highlighting-code-block/releases).
-

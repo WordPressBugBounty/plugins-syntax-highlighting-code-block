@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'westonruter/syntax-highlighting-code-block',
-        'pretty_version' => 'dev-develop',
-        'version' => 'dev-develop',
-        'reference' => '1ec59e41ac6c9ac46de03be74e2ff0b024a383d0',
+        'pretty_version' => '1.5.2',
+        'version' => '1.5.2.0',
+        'reference' => 'ad9f3215b0b4a4f1760598d5e76c1c5c700ddc00',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'westonruter/syntax-highlighting-code-block' => array(
-            'pretty_version' => 'dev-develop',
-            'version' => 'dev-develop',
-            'reference' => '1ec59e41ac6c9ac46de03be74e2ff0b024a383d0',
+            'pretty_version' => '1.5.2',
+            'version' => '1.5.2.0',
+            'reference' => 'ad9f3215b0b4a4f1760598d5e76c1c5c700ddc00',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
